@@ -1,0 +1,32 @@
+{
+    "telegram": {
+        "bot_token": "",
+        "account_session": "",
+        "api_hash": "",
+        "api_id": 
+    },
+
+    "socials": {
+        "social_searcher_api": "",
+        "vk_access_token": "",
+
+        "options": {
+            "web": true,
+            "twitter": true,
+            "instagram": true,
+            "facebook": true,
+            "reddit": true,
+            "vk": true
+        }
+    },
+
+    "crawler": {
+        "name": "dogecoin",
+        "abbreviation": "doge"
+    },
+
+    "notifier": {
+        "interval" : 43200,
+        "my_tg": ""
+    }
+}
