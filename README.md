@@ -96,7 +96,8 @@ If I have time or reason to continue on this project, maybe I will start with th
 - Present more social info about a crypto, such as - show negative posts/trends
 - Send critical notifications on significant change in crypto's price
 - Utilize more networks to crawl efficiently from
-- There is code for fetching latest transactions, holder percentages and way more info from bscscan/etherscan that is not utilized in this project, I can do it on request
+
+This is just the tip of the iceberg as there is code for fetching latest transactions, holder percentages and way more info from bscscan/etherscan that is not utilized in this project, I can do it on request
 
 ## If you feel the need to thank me
 **BTC** - bc1q8zhwxa5l6zg3amxten5rmetdkrz4sp78qzl5c4
