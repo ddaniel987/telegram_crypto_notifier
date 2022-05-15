@@ -100,6 +100,4 @@ If I have time or reason to continue on this project, maybe I will start with th
 This is just the tip of the iceberg as there is code for fetching latest transactions, holder percentages and way more info from bscscan/etherscan that is not utilized in this project, I can do it on request
 
 ## If you feel the need to thank me
-**BTC** - bc1q8zhwxa5l6zg3amxten5rmetdkrz4sp78qzl5c4
-
-**ETH** - 0x5e251964ACD0765694Bff190D88a6a727D986912
+**BEP20** - 0x360d4a6d81eb5034d3917a155a0703851b1c5311
