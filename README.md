@@ -4,7 +4,7 @@
  Except for the social searching, the program doesn't use any APIs and it gets its info from crawling several websites with puppeteer, so it can be used for free and as long as these websites retain their original structure.
  <br><br>If you want to receive info about social mentions/trends you must obtain Social Searcher API Key
 
-<br><br>You can use it with a BOT in a group, or send them to yourself, or to anybody
+<br><br>You can use it with a BOT in a group, or as USER to user/group, or send them to yourself, or to anybody
 
 ## Requisites
 Node >= 13.x
