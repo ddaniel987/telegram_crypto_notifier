@@ -4,6 +4,8 @@
  Except for the social searching, the program doesn't use any APIs and it gets its info from crawling several websites with puppeteer, so it can be used for free and as long as these websites retain their original structure.
  <br><br>If you want to receive info about social mentions/trends you must obtain Social Searcher API Key
 
+<br><br>You can use it with a BOT in a group, or send them to yourself, or to anybody
+
 ## Requisites
 Node >= 13.x
 
@@ -79,6 +81,13 @@ Trends:
 ```
 
 For as long as you keep the program running...
+
+## Known Issues
+- BOT can only send ONCE to a user (bot limitation probably)
+- BOT sometimes doesn't want to send in a group
+- Social Search is sometimes down, so you will get 0 in everything below socials
+
+Let me know if you find something else, I haven't really tested this with many cryptocurrencies so it may work and may not work randomly.
 
 ## Todo
 If I have time or reason to continue on this project, maybe I will start with these things first:
