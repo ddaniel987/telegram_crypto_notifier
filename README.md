@@ -101,3 +101,6 @@ This is just the tip of the iceberg as there is code for fetching latest transac
 
 ## If you feel the need to thank me
 **BEP20** - 0x360d4a6d81eb5034d3917a155a0703851b1c5311
+**BTC** - 16sQhFgcY5wrL8cmLp5DSpxRL7hmUwtgEK
+**DOGE** - DKHa9DvqFBp9azDiAPwZdNqdhAgzyrkfG9
+**ETH** - 0x360d4a6d81eb5034d3917a155a0703851b1c5311
